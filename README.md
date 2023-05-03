@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Para saber mais informações sobre mim deem uma olhada nas minhas outras redes sociais, agradeço sua visita 😁!
+  ### Para saber mais informações sobre mim, acessem minhas outras redes sociais.
  
 <div> 
   <a href="https://www.youtube.com/channel/UCRV4CZAB57XwqDAnThz5TiQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
